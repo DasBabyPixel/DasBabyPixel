@@ -3,8 +3,6 @@
 
 <p  align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=dasbabypixel"  alt="dasbabypixel" /></a> </p>
 
-- 🔭 I’m currently working on [Nightfall](https://github.com/NightfallOrganization)
-- 🔭           and especially [DarkCube](https://darkcube.eu)
 - 👯 I sometimes help with [CloudNet](https://github.com/CloudNetService/CloudNet)
 - ⚡ Check out the shitty [Game Engine](https://github.com/DasBabyPixel/GameLauncher.git) I created!
 
